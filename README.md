@@ -1,11 +1,11 @@
 # DeepLearningBase
-##PyTorch深度学习实践
-##这是为研究生复试做准备开始学习深度学习，此仓库基于B站Pytorch 深度学习实践整理得到，可关注```Bilibili刘二大人```进行对应视频的获取,侵删！
-##入门视频是bilibili上宝藏视频https://www.bilibili.com/video/BV1Y7411d7Ys
+## PyTorch深度学习实践
+  这是为研究生复试做准备开始学习深度学习，此仓库基于B站Pytorch 深度学习实践整理得到，可关注```Bilibili刘二大人```进行对应视频的获取,侵删！
+入门视频是bilibili上宝藏视频https://www.bilibili.com/video/BV1Y7411d7Ys
 
 ## 项目结构
 ### ├── dataset  # 跑代码所需的数据集，已经下载好
-### ├── homework
+### ├── homework # 视频中老师留下的作业，可进行参考学习
 ### │   ├── p2_Homework.py  # 线性回归模型的实现
 ### │   ├── p4_Homework.py  # 简单线性回归模型，使用PyTorch进行训练
 ### │   ├── p5_Homework.py  # 线性回归模型，使用不同优化器进行训练
